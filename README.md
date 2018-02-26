@@ -1,6 +1,21 @@
 # WeeklyProgress_Susanne
 Udacity NanodegreeFEND2018SusanneDedecke
 
+Week 26 Feb to 03 March 2018: 
+
+My first PROJECT (Animal Trading Card) was approved on 24 Feb 2018 with an excellent review. This Review  also contained links to learn more about writing the CSS even more elegant. I want to study those over the next few weeks. 
+I made progress on the lessons. I am now at Lesson 13 - 6 ("Building up"). 
+What I liked was the take -home re website CONTENT: You have to start with little content (key messages), since a majority of your users might load the page with their mobile. 
+I also enjoyed the quiz about making the "Brighton News" mobile friendly (one column - relative width of 100 % ; 1.5em padding around tap-items. 
+
+Today, I am re-writing my CV (Resume) for career purposes. I am glad that I have a GitHub Profile now which I can add to my profile. 
+Where can I have my CV (Resume) reviewed - maybe in 1 - 2 months from now? 
+
+My plan is also to set up the specifications for the SECOND PROJECT on my GitHub : PORTFOLIO SITE. 
+
+Any idea what I should modify on this Week plan? Thanks, Susanne 
+
+
 Week 19 Feb to 25 Feb 2018:
 
 Re-submitted my revised first Animal Trading Card project to the reviewer on 19 Feb 2018. 
