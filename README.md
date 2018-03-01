@@ -1,6 +1,16 @@
 # WeeklyProgress_Susanne
 Udacity NanodegreeFEND2018SusanneDedecke
 
+Week 05 March to 11 March 2018: 
+
+I want to learn lessons 14 - 17 of the Web Foundations. In parallel I start the project 2: PortfolioSite. 
+I am wondering if I should learn that grid structure that I have to apply to this project via 
+https://www.w3schools.com/css/css_grid.asp
+or if this is covered in the course, because I have never heard about it so far. 
+I will surely have 2 revision rounds for Project 2, so this is likely keeping me busy for the next 2 - 3 weeks. 
+
+
+
 Week 26 Feb to 03 March 2018: 
 
 My first PROJECT (Animal Trading Card) was approved on 24 Feb 2018 with an excellent review. This Review  also contained links to learn more about writing the CSS even more elegant. I want to study those over the next few weeks. 
