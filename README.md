@@ -1,6 +1,13 @@
 # WeeklyProgress_Susanne
 Udacity NanodegreeFEND2018SusanneDedecke
 
+
+Week 18 - 25 March 2018: I finally completed the first part of this Nanodegree "Web Foundations" and will use this week to work on my second project "Portfolio Project". For the Portfolio Project I will likely post a lot of questions in the live help on Slack. The next Friday I will be at a Health Hackathon where we program an application to be used by patients who wenter a clinic for a rehabilitation. This will also be very interesting. 
+
+
+Week 12 - 18 March 2018: 
+I started a freelance job in a web agency in addition to my regular job. We did some website improvement on a website in the web agency with adding self-produced Youtube videos to the relaunched website. 
+
 Week 05 March to 11 March 2018: 
 
 I want to learn lessons 14 - 17 of the Web Foundations. In parallel I start the project 2: PortfolioSite. 
