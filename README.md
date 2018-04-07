@@ -2,6 +2,10 @@
 Udacity NanodegreeFEND2018SusanneDedecke
 
 
+Week 2 April - 8 April 2018: I finally got reviewer approval for project 2 (Portfolio Site) this morning. I will now start working on project 3 (Memory Game). 
+
+Week 26 March - 1 April 2018: I had the flu with high fever and could only work a little on my project 2. :-(
+
 Week 18 - 25 March 2018: I finally completed the first part of this Nanodegree "Web Foundations" and will use this week to work on my second project "Portfolio Project". For the Portfolio Project I will likely post a lot of questions in the live help on Slack. The next Friday I will be at a Health Hackathon where we program an application to be used by patients who wenter a clinic for a rehabilitation. This will also be very interesting. 
 
 
